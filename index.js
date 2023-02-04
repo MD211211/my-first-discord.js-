@@ -30,7 +30,7 @@ client.on("ready", async () => {
         } catch (error) {
             console.error(error);
         }
-    log(`${client.user.username} Aktif Edildi!`);
+    log(`${client.user.username} Bot activated! Credit to: MD211211 on github`);
 })
 
 //event-handler
