@@ -55,4 +55,4 @@ process.on("uncaughtExceptionMonitor", e => {
  })
 //
 
-client.login('MTA3MTAyNzE0MDk1NjUyMDUwOA.GdlFKD.eqnqPK6aJs9n8OGzMv7XjiLUo95A-V0e8a87Pg')
+client.login('token')
